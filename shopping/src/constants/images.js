@@ -1,0 +1,18 @@
+export default {
+    PRODUCT_1:require('../assets/images/shoes1.png'),
+    PRODUCT_2:require('../assets/images/shoes2.png'),
+    PRODUCT_3:require('../assets/images/shoes3.png'),
+    PRODUCT_4:require('../assets/images/shoes4.png'),
+    PRODUCT_5:require('../assets/images/shoes5.webp'),
+    PRODUCT_6:require('../assets/images/shoes6.png'),
+    PRODUCT_7:require('../assets/images/shoes7.png'),
+    PRODUCT_8:require('../assets/images/shoes8.png'),
+    PRODUCT_9:require('../assets/images/shoes9.png'),
+    PRODUCT_10:require('../assets/images/shoes10.png'),
+    PRODUCT_11:require('../assets/images/shoes11.png'),
+    PRODUCT_12:require('../assets/images/shoes12.png'),
+    PRODUCT_13:require('../assets/images/shoes1.png'),
+    PRODUCT_14:require('../assets/images/shoes2.png'),
+    PRODUCT_15:require('../assets/images/shoes3.png'),
+    PRODUCT_16:require('../assets/images/shoes4.png'),
+}
